@@ -1,0 +1,16 @@
+C:\Users\Lucas Cano\source\repos\NET\API Clientes\API ControClientes\API ControClientes\bin\Debug\net6.0-windows\API ControClientes.exe
+C:\Users\Lucas Cano\source\repos\NET\API Clientes\API ControClientes\API ControClientes\bin\Debug\net6.0-windows\API ControClientes.deps.json
+C:\Users\Lucas Cano\source\repos\NET\API Clientes\API ControClientes\API ControClientes\bin\Debug\net6.0-windows\API ControClientes.runtimeconfig.json
+C:\Users\Lucas Cano\source\repos\NET\API Clientes\API ControClientes\API ControClientes\bin\Debug\net6.0-windows\API ControClientes.dll
+C:\Users\Lucas Cano\source\repos\NET\API Clientes\API ControClientes\API ControClientes\bin\Debug\net6.0-windows\API ControClientes.pdb
+C:\Users\Lucas Cano\source\repos\NET\API Clientes\API ControClientes\API ControClientes\obj\Debug\net6.0-windows\API_ControClientes.Form1.resources
+C:\Users\Lucas Cano\source\repos\NET\API Clientes\API ControClientes\API ControClientes\obj\Debug\net6.0-windows\API ControClientes.vbproj.GenerateResource.cache
+C:\Users\Lucas Cano\source\repos\NET\API Clientes\API ControClientes\API ControClientes\obj\Debug\net6.0-windows\API ControClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Cano\source\repos\NET\API Clientes\API ControClientes\API ControClientes\obj\Debug\net6.0-windows\API ControClientes.AssemblyInfoInputs.cache
+C:\Users\Lucas Cano\source\repos\NET\API Clientes\API ControClientes\API ControClientes\obj\Debug\net6.0-windows\API ControClientes.AssemblyInfo.vb
+C:\Users\Lucas Cano\source\repos\NET\API Clientes\API ControClientes\API ControClientes\obj\Debug\net6.0-windows\API ControClientes.vbproj.CoreCompileInputs.cache
+C:\Users\Lucas Cano\source\repos\NET\API Clientes\API ControClientes\API ControClientes\obj\Debug\net6.0-windows\API ControClientes.dll
+C:\Users\Lucas Cano\source\repos\NET\API Clientes\API ControClientes\API ControClientes\obj\Debug\net6.0-windows\refint\API ControClientes.dll
+C:\Users\Lucas Cano\source\repos\NET\API Clientes\API ControClientes\API ControClientes\obj\Debug\net6.0-windows\API ControClientes.pdb
+C:\Users\Lucas Cano\source\repos\NET\API Clientes\API ControClientes\API ControClientes\obj\Debug\net6.0-windows\API ControClientes.genruntimeconfig.cache
+C:\Users\Lucas Cano\source\repos\NET\API Clientes\API ControClientes\API ControClientes\obj\Debug\net6.0-windows\ref\API ControClientes.dll
